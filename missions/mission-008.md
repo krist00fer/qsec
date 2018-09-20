@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-Provide a re-usable open source version of an Queue Framework, meant to be used as a "code library" referenced from other projects.
+Provide a re-usable open source version of a Queue Framework, meant to be used as a "code library" referenced from other projects.
 
 ## Requirements
 
