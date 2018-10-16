@@ -64,7 +64,7 @@ After all presentations are done. Everyone will have a short period of time to g
 
 ## The Winner
 
-The project with the most points wins (25 is max).
+The project with the most points wins (25 is max)
 
 ## Take Away
 
