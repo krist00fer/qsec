@@ -45,4 +45,4 @@ Introduce the ability to clean the history of executed calculations.
 
 ### Version 3.0 - Scale out
 
-Service should handle scale out scenarios, i.e. working correctly with above requirements even if server runs on many processes and/or many machines
+Service should handle scale out scenarios, i.e. working correctly with above requirements even if server runs on many processes and/or many machines.
