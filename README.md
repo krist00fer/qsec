@@ -59,12 +59,12 @@ After all presentations are done. Everyone will have a short period of time to g
 * Community and presentation (1-5)
   * Is it likely that this repository will catch another developer’s attention?
   * Do you feel that this project makes it easy for you to contribute?
-* Contribution to other (1-5)
+* Contribution to other (1-10)
   * How much code contribution did you receive from this participant?
 
 ## The Winner
 
-The project with the most points wins (25 is max)
+The project with the most points wins (30 is max)
 
 ## Take Away
 
